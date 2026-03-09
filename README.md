@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Audience Engineering take-home assessment. Please spend no more than **90 minutes** to build a REST API for a vending machine using Cloudflare Workers.
+Welcome to the Audience Engineering take-home assessment. Please spend no more than **120 minutes** to build a REST API for a vending machine using Cloudflare Workers.
 
 The project scaffold is ready to go — TypeScript, Vitest, and a sample endpoint with a test are included to get you started. Your goal is to implement the API in `src/index.ts` (and any additional files you create in `src/`) to match the specification below.
 
